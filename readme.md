@@ -15,7 +15,7 @@ O projeto consiste na implementação de um banco de dados relacional que possa 
 6. Criação de subconjuntos de dados personalizados para atender aos requisitos específicos dos parceiros de negócios.
 7. Exportação e carregamento desses subconjuntos de dados no banco de dados db2 e mysql.
 
-##Softwares usados
+## Softwares usados
 * PostgreSQL Database
 * IBM Db2 Database
 * MySQL
