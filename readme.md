@@ -1,7 +1,7 @@
 # Sobre o projeto
 
-##Cenário
-Uma rede de cafeteria deseja agilizar as operações e renovar sua infraestrutura de dados como parte do processo de expansão. O objetivo é projetar sistemas de banco de dados relacionais para melhorar a eficiência operacional e tornar mais fácil para os executivos tomarem decisões baseadas em dados.
+## Cenário
+Uma rede de cafeterias deseja agilizar as operações e renovar sua infraestrutura de dados como parte do processo de expansão. O objetivo é projetar sistemas de banco de dados relacionais para melhorar a eficiência operacional e tornar mais fácil para os executivos tomarem decisões baseadas em dados.
 
 O projeto consiste na implementação de um banco de dados relacional que possa armazenar todos os dados de forma eficiente e escalável.
 
